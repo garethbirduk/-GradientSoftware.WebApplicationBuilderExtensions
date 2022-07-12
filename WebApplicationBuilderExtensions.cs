@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.ResponseCompression;
 using System.IO.Compression;
 
-namespace Gradient.WebApplicationBuilderExtensions
+namespace Gradient.BuilderExtensions
 {
     /// <summary>
     /// Helper extensions for building the app
